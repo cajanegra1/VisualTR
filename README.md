@@ -1,2 +1,2 @@
 # VisualTR
-Stands for Visual Transcriptional Regulation
+Stands for Visual Transcriptional Regulation. Under construction.
